@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# URGENT: Save Morocco's Guardian Angel of Stray Animals
 
-## Getting Started
+## WHO IS ABDESLAM ESSABR?
 
-First, run the development server:
+For a decade, Abdeslam has been transforming lives in his Moroccan village, saving thousands of stray animals and changing how an entire community treats its most vulnerable creatures. Now, he urgently needs life-saving heart surgery.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## IMMEDIATE NEED
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Urgent LVAD (Left Ventricular Assist Device) heart surgery required
+- Cost: $200,000 for surgery alone
+- Currently surviving on medication
+- Condition deteriorating rapidly
+- Had to relocate near hospital for emergency access
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## DOCUMENTED IMPACT
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Two YouTube channels documenting his work:
+  - "Pets are Angels" (18.5K subscribers)
+  - "Kittens and Puppies are a Life" (211K subscribers)
+  - Combined 29M+ views
+- Thousands of animals rescued and rehabilitated
+- Innovative farm placement program created
+- Local veterinary practices transformed
+- Community attitudes changed from fear to compassion
 
-## Learn More
+## SUSTAINABLE SOLUTIONS CREATED
 
-To learn more about Next.js, take a look at the following resources:
+- Daily feeding programs
+- Emergency medical care system
+- Farm placement network
+- Community education initiatives
+- Local business involvement in animal welfare
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## HOW TO HELP
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### IMMEDIATE SUPPORT
 
-## Deploy on Vercel
+Direct PayPal donations for urgent medical needs:
+[Abdeslam's PayPal details from his social media]
+- Helps cover daily medications
+- Enables ongoing medical tests
+- Supports hospital visits
+- Assists with transportation costs
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### SPREAD THE WORD
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Share his YouTube channels
+- Follow for updates
+- Join the community of supporters
+
+## VERIFIED PRESENCE
+
+- YouTube: [Channel links]
+- Medical Documentation Available
+- 10+ Years of Documented Work
+
+**Every contribution helps keep Abdeslam alive and his mission ongoing. Without him, thousands of animals face an uncertain future.**
