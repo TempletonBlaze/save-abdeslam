@@ -37,7 +37,7 @@ For over a decade, Abdeslam has been transforming lives in his Moroccan Village,
 
 Direct Paypal donations for urgent medical needs:
 paypal.me/petsareangels1?country.x=MA&locale.x=en_US
-- Helps cover daily medications
+- This helps to cover daily medications
 - Enables ongoing medical tests
 - Supports hospital visits
 - Assists with transportation costs
